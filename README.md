@@ -40,6 +40,21 @@ The data was oversampled using the Naive Random Oversampler and Smote algorithms
 Two different ensemble classifiers (Balanced Random Forest Classifier and Easy Ensemble Classifier) were trained and compared in order to predict loan risk and evaluate each model. 
 
 ### Final Questions
+1. Which model had the best balanced accuracy score?
+
+    Easy Ensemble Classifier had the best balanced accuracy score of approximately 0.9254 compared to RandomForestClassifier score of approximately 0.6721
+
+2. Which model had the best recall score?
+
+    Based on the avg recall score, Random Forest Classifier had the best score of 1.
+
+3. Which model had the best geometric mean score?
+
+    Easy Ensemble Classifier had the best geometric mean score of 0.93
+
+4. What are the top three features?
+
+    The top three features were, 'total_rec_prncp', 'total_pymnt', and 'total_pymnt_inv'.
 
 ## Contributors
 Chantal Garnett
