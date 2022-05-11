@@ -9,7 +9,7 @@ Machine Learning Homework Assignment - Risky Business
 Seeking credit and loans online is popular and online lending services always want to mitigate risk. In this project machine learning models will be used to predict credit risk. Credit risk is an inherently imbalanced classification problem, the number of good loans is much larger than the number of at-risk-loans. Therefore imbalanced-learn and Scikit-learn libraries will be used to build and evaluate models. 
 
 ## Data Sources
-These data sources are what are typically seen in peer-to-peer lending services. 
+These data sources are typically seen in peer-to-peer lending services. 
 
 [Lending_Data](   )
 
