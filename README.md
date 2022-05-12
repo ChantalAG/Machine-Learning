@@ -11,7 +11,7 @@ Seeking credit and loans online is popular and online lending services always wa
 ## Data Sources
 These data sources are typically seen in peer-to-peer lending services. 
 
-[Lending_Data](   )
+[Lending_Data](https://github.com/ChantalAG/Machine-Learning/blob/main/lending_data.csv)
 
 [LoanStats_2019](https://github.com/ChantalAG/Machine-Learning/blob/main/LoanStats_2019Q1.csv)
 
