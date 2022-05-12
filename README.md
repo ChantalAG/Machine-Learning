@@ -18,7 +18,7 @@ These data sources are typically seen in peer-to-peer lending services.
 
 ## Resampling
 The data was oversampled using the Naive Random Oversampler and Smote algorithms, undersampled using the Cluster Centroids algorithm and, over and undersampled using a combination SMOTEENN algorithm.
-*
+
 ### Final Questions
 
 1. Which model had the best balanced accuracy score?
@@ -28,7 +28,7 @@ The data was oversampled using the Naive Random Oversampler and Smote algorithms
 
 2. Which model had the best recall score?
 
-    All the models had an average recall score of 0.99. The Random versampler and the Smote oversampler both had the highest 
+    All the models had an average recall score of 0.99. The Random oversampler and the Smote oversampler both had the highest 
     recall score of 1 for high risk. 
 
 3. Which model had the best geometric mean score?
@@ -46,7 +46,7 @@ Two different ensemble classifiers (Balanced Random Forest Classifier and Easy E
 
 2. Which model had the best recall score?
 
-    Based on the avg recall score, Random Forest Classifier had the best score of 1.
+    Based on the avgerage recall score, Random Forest Classifier had the best score of 1.
 
 3. Which model had the best geometric mean score?
 
